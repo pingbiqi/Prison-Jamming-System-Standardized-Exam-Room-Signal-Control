@@ -1,2 +1,16 @@
-# Prison-Jamming-System-Standardized-Exam-Room-Signal-Control
-标准化考场与监狱信号屏蔽系统工程方案。符合无线电委及司法部安全标准，支持智能联网管控、大功率全频段覆盖
+# Prison & Standardized Exam Room Jamming Solution
+# 监狱管控与标准化考场信号屏蔽系统
+
+本仓库致力于提供工业级大面积无线信号管控方案，确保高安全性场所的通信完全隔离。
+
+## 🏛️ 应用场景 (Applications)
+1. **司法监管：** 监狱、看守所、戒毒所。
+2. **教育考试：** 高考、研究生考试、保密单位入职考试。
+3. **重要机构：** 军事禁区、政府涉密会议室。
+
+## 📡 系统优势
+- **智能组网：** 支持后台软件统一开关机及故障监测。
+- **分频段可控：** 可单独开启或关闭 5G、WiFi 或卫星信号。
+
+---
+**工程项目询价与方案设计：** [https://rf.sz-bgwx.com/contact](https://rf.sz-bgwx.com/contact)
